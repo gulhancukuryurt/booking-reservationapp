@@ -1,0 +1,303 @@
+{
+    "planner" : [
+        {
+            "name": "Esenyurt",
+            "distance" : "24 km uzaklıkta",
+            "category": "romantizm",
+            "img": "https://cf.bstatic.com/xdata/images/xphoto/300x240/140034519.jpg?k=b4309c9461aab378287d0b919d138b6b9700d46dab5a05dc9fd278581de81f72&o="
+        },
+        {
+            "name": "Gebze",
+            "distance" : "47 km uzaklıkta",
+            "category": "romantizm",
+            "img": "https://cf.bstatic.com/xdata/images/xphoto/300x240/140034511.jpg?k=b64afa6b8695993300eb8b3e56ef37f8068d4f294a77d71ba8e715bb800b6880&o="
+        },
+        {
+            "name": "Şile",
+            "distance" : "56 km uzaklıkta",
+            "category": "romantizm",
+            "img": "https://cf.bstatic.com/xdata/images/xphoto/300x240/140034362.jpg?k=c4cf536a45e06f8933157bc88111f4e7bcbcf7f0d11d6ef4f58b8d10027c9891&o="
+        },
+        {
+            "name": "Silivri",
+            "distance" : "61 km uzaklıkta",
+            "category": "romantizm",
+            "img": "https://cf.bstatic.com/xdata/images/xphoto/300x240/140034360.jpg?k=0f39db759121fd1149605acfafbb4397dbf07b20b5c07c26c78d97908f458ebe&o="
+        },
+        {
+            "name": "Mudanya",
+            "distance" : "74 km uzaklıkta",
+            "category": "romantizm",
+            "img": "https://cf.bstatic.com/xdata/images/xphoto/300x240/140034393.jpg?k=ff13610173beb733ad80b11b2fd499f3980d3c4948aeef1b80449596dddc4238&o="
+        },
+        {
+            "name": "Bursa",
+            "distance" : "95 km uzaklıkta",
+            "category": "romantizm",
+            "img": "https://cf.bstatic.com/xdata/images/xphoto/300x240/140034564.jpg?k=fa6418058f88d51e2bf83951c0b656f843b359a58bebd5aa15b500ea2f2ad228&o="
+        },
+        {
+            "name": "Erdek",
+            "distance" : "121 km uzaklıkta",
+            "category": "romantizm",
+            "img": "https://cf.bstatic.com/xdata/images/xphoto/300x240/140034524.jpg?k=55e700d390b6837888fd317b5c2cbeacc957eb6f57472a02f6e2e2389a9a3527&o="
+        },
+        {
+            "name": "Tekirdağ",
+            "distance" : "122 km uzaklıkta",
+            "category": "romantizm",
+            "img": "https://cf.bstatic.com/xdata/images/xphoto/300x240/140034350.jpg?k=187dbd4a2c6f37f62de3d173345e0ef37dad809b56f7e7cd7e470fdbd5c0fb04&o="
+        },
+        {
+            "name": "Avşa Adası",
+            "distance" : "137 km uzaklıkta",
+            "category": "romantizm",
+            "img": "https://cf.bstatic.com/xdata/images/xphoto/300x240/140034337.jpg?k=aa9d45e0009eb6cff0bf840e8ea69dec272ec3eae2a4095b902ba1d4321c2689&o="
+        },
+        {
+            "name": "Akçakoca",
+            "distance" : "181 km uzaklıkta",
+            "category": "romantizm",
+            "img": "https://cf.bstatic.com/xdata/images/xphoto/300x240/140034618.jpg?k=ac785e1213ed595ffad19594d68d8cefcb7dc54eaeae46f56a6209dcfc094c52&o="
+        },
+        {
+            "name": "Gelibolu",
+            "distance" : "206 km uzaklıkta",
+            "category": "romantizm",
+            "img": "https://cf.bstatic.com/xdata/images/xphoto/300x240/140034510.jpg?k=243c96a2f0d334540ae35b3b1c3a8a9fea438a5e7c211b2355a8d00e4e13978a&o="
+        },
+        {
+            "name": "Akçay",
+            "distance" : "236 km uzaklıkta",
+            "category": "romantizm",
+            "img": "https://cf.bstatic.com/xdata/images/xphoto/300x240/140034616.jpg?k=3c91f03c7d80349e0fac8dd47feaadea91f682707001a51c5cbe4c8f00b48e7d&o="
+        },
+        {
+            "name": "Adalar",
+            "distance" : "23 km uzaklıkta",
+            "category": "açık hava",
+            "img": "https://cf.bstatic.com/xdata/images/xphoto/300x240/140034563.jpg?k=990803211a875e765128218c6bb035deb8613507bf212ebd0c2c059e7915fc53&o="
+        },
+        {
+            "name": "Ağva",
+            "distance" : "76 km uzaklıkta",
+            "category": "açık hava",
+            "img": "https://cf.bstatic.com/xdata/images/xphoto/300x240/140034621.jpg?k=5d3def98b0025977dff82dacef34423503f667e19a0c1c9819687b3628b0d407&o="
+        },
+        {
+            "name": "Uludağ",
+            "distance" : "104 km uzaklıkta",
+            "category": "açık hava",
+            "img": "https://cf.bstatic.com/xdata/images/xphoto/300x240/140052427.jpg?k=71ac92708724cffe3c804df3838af1fd481da30a4b658727561f77415c08cdb7&o="
+        },
+        {
+            "name": "Maşukiye",
+            "distance" : "105 km uzaklıkta",
+            "category": "açık hava",
+            "img": "https://cf.bstatic.com/xdata/images/xphoto/300x240/140034538.jpg?k=a85bdc4f605a75dc92e1a071c1e5b0e537f85bc624b0d45955ec74e8df2094f6&o="
+        },
+        {
+            "name": "Sakarya",
+            "distance" : "124 km uzaklıkta",
+            "category": "açık hava",
+            "img": "https://cf.bstatic.com/xdata/images/xphoto/300x240/140034624.jpg?k=b5c3e73a397b1d6f8e4ea6a220fbc3352a114762f2a50630e6466eadc0a1da87&o="
+        },
+        {
+            "name": "Bolu",
+            "distance" : "225 km uzaklıkta",
+            "category": "açık hava",
+            "img": "https://cf.bstatic.com/xdata/images/xphoto/300x240/140034572.jpg?k=783b302386514dee55d455ac38b3dc7605b8eb1e1c4b831d07c7f879e15a6068&o="
+        },
+        {
+            "name": "Küçükkuyu",
+            "distance" : "260 km uzaklıkta",
+            "category": "açık hava",
+            "img": "https://cf.bstatic.com/xdata/images/xphoto/300x240/140034425.jpg?k=c9afa22499414d7b84a9407445fc7e73a8fededa6c0dad275666d4aa4c26a2ee&o="
+        },
+        {
+            "name": "Gökçeada Merkez",
+            "distance" : "274 km uzaklıkta",
+            "category": "açık hava",
+            "img": "https://cf.bstatic.com/xdata/images/xphoto/300x240/140034470.jpg?k=b29fb36d7baff55641bb8d383aff2e17385d782571a9843d3e088b94e99f74f3&o="
+        },
+        {
+            "name": "Behramkale",
+            "distance" : "281 km uzaklıkta",
+            "category": "açık hava",
+            "img": "https://cf.bstatic.com/xdata/images/xphoto/300x240/140034584.jpg?k=c127f2108e4963fd39e183caba9994dca4cdc7b6b6fd49ac3893082b07c08f85&o="
+        },
+        {
+            "name": "Amasra",
+            "distance" : "296 km uzaklıkta",
+            "category": "açık hava",
+            "img": "https://cf.bstatic.com/xdata/images/xphoto/300x240/140034608.jpg?k=518791bd7f4e316a72f6afef35206ac2681b28f80a3f4043d27cdbee6ef86282&o="
+        },
+        {
+            "name": "Pamukkale",
+            "distance" : "347 km uzaklıkta",
+            "category": "açık hava",
+            "img": "https://cf.bstatic.com/xdata/images/xphoto/300x240/140034376.jpg?k=22020e144b7a9bee56c37f2c27e0b2c7d67ae339c88024a4106c0ce348fc2d27&o="
+        },
+        {
+            "name": "Büyükçekmece",
+            "distance" : "31 km uzaklıkta",
+            "category": "plaj",
+            "img": "https://cf.bstatic.com/xdata/images/xphoto/300x240/140034562.jpg?k=9631bd4a3beed5501c3994346aee6e257802e0d88383a809a84785c0046ffa87&o="
+        },
+        {
+            "name": "Tuzla",
+            "distance" : "37 km uzaklıkta",
+            "category": "plaj",
+            "img": "https://cf.bstatic.com/xdata/images/xphoto/300x240/140034335.jpg?k=bb6ef6694976ad8e4e8c3d340cc63fd80522ef3f4be80de40b0f0f2a755eec11&o="
+        },
+        {
+            "name": "Yalova",
+            "distance" : "49 km uzaklıkta",
+            "category": "plaj",
+            "img": "https://cf.bstatic.com/xdata/images/xphoto/300x240/140034325.jpg?k=b49eaeb60e7d8c83645705842bd2406a3fbad32cbdc317d5c55c70f345019ef3&o="
+        },
+        {
+            "name": "Kocaeli",
+            "distance" : "84 km uzaklıkta",
+            "category": "plaj",
+            "img": "https://cf.bstatic.com/xdata/images/xphoto/300x240/140034462.jpg?k=d44df04be8e822aa9558d7e7688d4444bcf204c1eccf9d54365f83afff847f02&o="
+        },
+        {
+            "name": "Sapanca",
+            "distance" : "116 km uzaklıkta",
+            "category": "plaj",
+            "img": "https://cf.bstatic.com/xdata/images/xphoto/300x240/140034369.jpg?k=c4742db07585eaefd641acb6b55b594b4991e5e64291813d42529b6e84d3b44d&o="
+        },
+        {
+            "name": "Ayvalık",
+            "distance" : "272 km uzaklıkta",
+            "category": "plaj",
+            "img": "https://cf.bstatic.com/xdata/images/xphoto/300x240/140034589.jpg?k=9d8d2a97a3e00fa6e456ecd3f5dcbeff0ff59c7c9dd67af8fd4ef7f9f11d85a0&o="
+        },
+        {
+            "name": "Çeşme",
+            "distance" : "377 km uzaklıkta",
+            "category": "plaj",
+            "img": "https://cf.bstatic.com/xdata/images/xphoto/300x240/140034550.jpg?k=efc9cdf01987e5b440ee8a0b14b4b5c590ff6cac9f5bde4e3072fc2d593a3be0&o="
+        },
+        {
+            "name": "Alaçatı",
+            "distance" : "378 km uzaklıkta",
+            "category": "plaj",
+            "img": "https://cf.bstatic.com/xdata/images/xphoto/300x240/140034612.jpg?k=09e75512a0ba6056eea141bb03cde3e6034de91ff243eb49828aedff1b78aea9&o="
+        },
+        {
+            "name": "Kuşadası",
+            "distance" : "382 km uzaklıkta",
+            "category": "plaj",
+            "img": "https://cf.bstatic.com/xdata/images/xphoto/300x240/140034415.jpg?k=88731014c2f4e43c3c7a933a0f06eb77c60a360dc5531bbe613302861809c315&o="
+        },
+        {
+            "name": "Muğla",
+            "distance" : "428 km uzaklıkta",
+            "category": "plaj",
+            "img": "https://cf.bstatic.com/xdata/images/xphoto/300x240/140034391.jpg?k=1009570a201d1b821355beda0e76c7c89532e2d78300b55fb67c43c7f081236b&o="
+        },
+        {
+            "name": "Didim",
+            "distance" : "432 km uzaklıkta",
+            "category": "plaj",
+            "img": "https://cf.bstatic.com/xdata/images/xphoto/300x240/140050509.jpg?k=d16feb726858634bbde51ac26e153ebec31bb989a82f6575d3d18fb6ab586483&o="
+        },
+        {
+            "name": "İstanbul",
+            "distance" : "2.9 km uzaklıkta",
+            "category": "şehir",
+            "img": "https://cf.bstatic.com/xdata/images/xphoto/300x240/140034464.jpg?k=bbe7ba21c9e396ddfbcace7166df14273099610667c47694d35f42cf0aeb3ce2&o="
+        },
+        {
+            "name": "Avcılar",
+            "distance" : "22 km uzaklıkta",
+            "category": "şehir",
+            "img": "https://cf.bstatic.com/xdata/images/xphoto/300x240/140034595.jpg?k=0c7f0c9f60dea136b9252c7622c6199b3ec8c004633ef61071f875eedab8b2a5&o="
+        },
+        {
+            "name": "Çanakkale",
+            "distance" : "237 km uzaklıkta",
+            "category": "şehir",
+            "img": "https://cf.bstatic.com/xdata/images/xphoto/300x240/140034558.jpg?k=fd3a23b8c2bc069d98ecd85d73857d3e4f68ef886021a0402e211c732a40fdff&o="
+        },
+        {
+            "name": "Safranbolu",
+            "distance" : "312 km uzaklıkta",
+            "category": "şehir",
+            "img": "https://cf.bstatic.com/xdata/images/xphoto/300x240/140034374.jpg?k=3e1727fb450be17842240cc946d29ec009b3d5424f7167b3f1f32929dd538fbb&o="
+        },
+        {
+            "name": "İzmir",
+            "distance" : "330 km uzaklıkta",
+            "category": "şehir",
+            "img": "https://cf.bstatic.com/xdata/images/xphoto/300x240/140034463.jpg?k=280e25c027f7abc7ce5d4e2512f7e2ee653ce5d8ef2d1a8875ec40b119b5f0b1&o="
+        },
+        {
+            "name": "Ankara",
+            "distance" : "351 km uzaklıkta",
+            "category": "şehir",
+            "img": "https://cf.bstatic.com/xdata/images/xphoto/300x240/140034603.jpg?k=a2b3476581fb8831572ac0e16c66827019bb31d7b7eaa2b798676a9e4ee84f8c&o="
+        },
+        {
+            "name": "Selçuk",
+            "distance" : "370 km uzaklıkta",
+            "category": "şehir",
+            "img": "https://cf.bstatic.com/xdata/images/xphoto/300x240/140034365.jpg?k=bb2785dcf1a20cf59d12da67c651c26b3b5df39c9d5a8512f18b05e2ebe26d6d&o="
+        },
+        {
+            "name": "Amasya",
+            "distance" : "579 km uzaklıkta",
+            "category": "şehir",
+            "img": "https://cf.bstatic.com/xdata/images/xphoto/300x240/140034606.jpg?k=a2130368cd3ff695364e416f4e9f67f244d0bb1ca95074a38859766b884d472a&o="
+        },
+        {
+            "name": "Hatay",
+            "distance" : "824 km uzaklıkta",
+            "category": "şehir",
+            "img": "https://cf.bstatic.com/xdata/images/xphoto/300x240/140034602.jpg?k=7b265e8965763de2c4e0d37ff1cc99bdeeb36ec0e817da2fd9268b90c9e2139b&o="
+        },
+        {
+            "name": "Şanlıurfa",
+            "distance" : "950 km uzaklıkta",
+            "category": "şehir",
+            "img": "https://cf.bstatic.com/xdata/images/xphoto/300x240/140034331.jpg?k=053d6e23945c5d21569beaff7ce0a56970688c93fcbc152ded81e08f10b4ae2b&o="
+        },
+        {
+            "name": "Mardin",
+            "distance" : "1094 km uzaklıkta",
+            "category": "şehir",
+            "img": "https://cf.bstatic.com/xdata/images/xphoto/300x240/140034407.jpg?k=413e4b289bcdaa09fc29990047afadce70e966af96502d961bc4defb80c00aa4&o="
+        },
+        {
+            "name": "Bozcaada",
+            "distance" : "279 km uzaklıkta",
+            "category": "dinlenme",
+            "img": "https://cf.bstatic.com/xdata/images/xphoto/300x240/140034569.jpg?k=560f1b5be2ff4e7fc35a89fb74e358242cbc16a516635bb1fff501afdc2db086&o="
+        },
+        {
+            "name": "Afyon",
+            "distance" : "288 km uzaklıkta",
+            "category": "dinlenme",
+            "img": "https://cf.bstatic.com/xdata/images/xphoto/300x240/140034623.jpg?k=1aa096c67596b7e9dc271d8ba3fde5032f0751fe5349fc7c2ef65b6b97da6e4b&o="
+        },
+        {
+            "name": "Foça",
+            "distance" : "324 km uzaklıkta",
+            "category": "dinlenme",
+            "img": "https://cf.bstatic.com/xdata/images/xphoto/300x240/140034513.jpg?k=20e492dfc382e324103e443a3ec1d788eaa1c1892d4c3b748647e03507250aab&o="
+        },
+        {
+            "name": "Sarıgerme",
+            "distance" : "481 km uzaklıkta",
+            "category": "dinlenme",
+            "img": "https://cf.bstatic.com/xdata/images/xphoto/300x240/140051531.jpg?k=f13e5ee25dc4f1e87ae030fed743778ad078258e09d66ffec470acb115e860f1&o="
+        }
+
+
+        
+
+
+    ]
+}
