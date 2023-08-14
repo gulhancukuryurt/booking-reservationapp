@@ -1,15 +1,67 @@
-import React from 'react';
-import genius from '../img/genius.png';
-import Image from 'next/image';
-import mainlogin from '../img/mainlogin.png'
+import React from "react";
+import genius from "../img/genius.png";
+import Image from "next/image";
+import mainlogin from "../img/mainlogin.png";
 
 function MainLogin() {
   return (
     <div className="max-w-screen-xl px-2 py-5 mx-auto">
-      <div className="mt-3">
+      <div className="flex flex-col">
+        <div className="flex justify-between bg-white border-2 border-black-100 rounded">
+          <div className="flex justify-start m-2 p-4">
+            <Image src={genius} width={150} height={350} />
+            <div className="flex flex-col flex-grow mt-3">
+              <h5 className="text-xl font-bold tracking-tight text-gray-900 dark:text-white p-1">
+                Anında indirimlerden faydalanın
+              </h5>
+              <p className="font-normal text-gray-700 dark:text-gray-400 p-1 ">
+                Tasarruf etmek için Booking.com hesabınıza giriş yapıp mavi
+                renkli Genius logosunu bulmanız yeterli
+              </p>
+              <div>
+                <button
+                  type="button"
+                  className="text-white bg-blue-800 hover:bg-blue-700 rounded-none focus:ring-4 focus:outline-none focus:ring-blue-300 font-medium rounded-lg text-sm text-center mt-3 md:mr-0 dark:bg-blue-600 dark:hover:bg-blue-700 dark:focus:ring-blue-800 w-40 h-10"
+                >
+                  Giriş Yap
+                </button>
+                <button
+                  type="button"
+                  className="text-blue hover:bg-blue-100 rounded-none focus:ring-4 focus:outline-none focus:ring-blue-300 font-medium rounded-lg text-sm text-center mt-3 md:mr-0 dark:bg-blue-600 dark:hover:bg-blue-700 dark:focus:ring-blue-800 w-40 h-10 ml-2"
+                >
+                  Kaydol
+                </button>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div className="flex flex-col bg-white border-2 mt-3">
+          <div className="flex flex-row justify-between">
+            <div className="flex bg-amber-500">
+            </div>
+            <div className="flex flex-col justify-center align-top bg-blue-500 w-5/12 h-80 rounded-full p-36">
+              <h5 className="text-xl font-bold tracking-tight text-white dark:text-white p-1">
+                Sıradaki seyahatiniz için
+              </h5>
+              <h5 className="text-xl font-bold tracking-tight text-white dark:text-white p-1 border-b-4 w-20">
+                evler
+              </h5>
+              <h5 className="text-xl font-bold tracking-tight text-white dark:text-white p-1">
+                bulun
+              </h5>
+              <button type="button" className="text-white bg-blue-800 hover:bg-blue-700 rounded-none focus:ring-4 focus:outline-none focus:ring-blue-300 font-medium rounded-lg text-sm text-center mt-3 md:mr-0 dark:bg-blue-600 dark:hover:bg-blue-700 dark:focus:ring-blue-800 w-40 h-10">Evleri Keşfet</button>
+              </div>
+           
+            <div className="flex justify-end mr-16">
+              <Image src={mainlogin} width={400} height={300}></Image>
+            </div>
+          </div>
+        </div>
+      </div>
+      {/* <div className="mt-3">
         <a href="#" className="flex bg-white border border-gray-200 rounded-lg shadow md:flex-row md:max-w-xl hover:bg-gray-100 dark:border-gray-700 dark:bg-gray-800 dark:hover:bg-gray-700">
           <div className="md:flex md:w-100">
-            <div>
+            <div className='mt-4'>
               <Image src={genius} width={450} height={350} />
             </div>
             <div className="flex flex-col leading-normal mt-8 p-3">
@@ -43,7 +95,7 @@ function MainLogin() {
             </div>
           </div>
         </a>
-      </div>
+      </div> */}
     </div>
   );
 }

@@ -123,7 +123,7 @@ function Header() {
               </span>
               {openOption && (
                 <div className=" absolute top-16 flex flex-col bg-gray-100 shadow-md shadow-slate-300 rounded p-5">
-                  <div className="flex w-60 justify-between m-2">
+                  <div className="flex w-60 justify-between m-2 font-bold">
                     <span>Yetişkin</span>
                     <div className="flex align-top justify-center gap-5">
                       <button
@@ -145,7 +145,7 @@ function Header() {
                       </button>
                     </div>
                   </div>
-                  <div className="flex w-60 justify-between m-2">
+                  <div className="flex w-60 justify-between m-2 font-bold">
                     <span>Çocuk</span>
                     <div className="flex align-top justify-center gap-5">
                       <button
@@ -167,7 +167,7 @@ function Header() {
                       </button>
                     </div>
                   </div>
-                  <div className="flex w-60 justify-between m-2">
+                  <div className="flex w-60 justify-between m-2 font-bold">
                     <span>Oda</span>
                     <div className="flex align-top justify-center gap-5">
                       <button className="rounded bg-slate-300 w-7 text-md"
