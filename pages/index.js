@@ -7,6 +7,7 @@ import Stays from '@/components/Stays'
 import { Inter } from 'next/font/google'
 import Navbar from '../components/Navbar'
 import MainLogin from '@/components/MainLogin'
+import MailList from '@/components/MailList'
 
 
 const inter = Inter({ subsets: ['latin'] })
@@ -22,6 +23,7 @@ export default function Home() {
     <TripPlanner/>
     <Stays/>
     <MainLogin/>
+    <MailList/>
     </>
   )
 }
