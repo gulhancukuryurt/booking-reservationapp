@@ -19,10 +19,10 @@ export default function Index() {
     return (
         <div className="max-w-screen-xl px-2 py-5 mx-auto">
              <h3 className="text-2xl font-bold -mb-2">Popüler seyahat noktaları</h3>
-             <p className="mt-2 -mb-3">Türkiye'den gelen gezginler arasında en popüler seçenekler</p>
-            <div className="flex items-center justify-center w-full h-full py-4 sm:py-8 px-4">
+             <p className="mt-3 -mb-3">Türkiye'den gelen gezginler arasında en popüler seçenekler</p>
+            <div className="flex items-center justify-center w-full h-full py-4 sm:py-8">
                
-                <CarouselProvider className="lg:block hidden" naturalSlideWidth={100} isIntrinsicHeight={true} totalSlides={12} visibleSlides={5} step={1} infinite={true}>
+                <CarouselProvider className="lg:block hidden" naturalSlideWidth={100} isIntrinsicHeight={true} totalSlides={12} visibleSlides={5} step={3} infinite={true}>
                     <div className="w-full relative flex items-center justify-center">
                         <ButtonBack role="button" aria-label="slide backward" className="absolute z-30 left-0 ml-8 focus:outline-none focus:bg-gray-400 focus:ring-2 focus:ring-offset-2 focus:ring-gray-400 cursor-pointer" id="prev">
                             <svg width={8} height={14} viewBox="0 0 8 14" fill="none" xmlns="http://www.w3.org/2000/svg">
@@ -53,8 +53,8 @@ export default function Index() {
                                     </Slide>
                                     <Slide index={3}>
                                     <div className="flex flex-col flex-shrink-0 w-full sm:w-auto">
-                                            <Image src={holland} alt="propertimg" className="object-cover object-center w-full" />
-                                           <h3 className="font-bold text-md">Amsterdam, Hollanda</h3>
+                                            <Image src={batum} alt="propertimg" className="object-cover object-center w-full" />
+                                           <h3 className="font-bold text-md">Batum, Gürcistan</h3>
                                         </div>
                                     </Slide>
                                     <Slide index={4}>
@@ -76,9 +76,10 @@ export default function Index() {
                                         </div>
                                     </Slide>
                                     <Slide index={7}>
-                                    <div className="flex flex-col flex-shrink-0 w-full sm:w-auto">
-                                            <Image src={batum} alt="propertimg" className="object-cover object-center w-full" />
-                                           <h3 className="font-bold text-md">Batum, Gürcistan</h3>
+                                   
+                                        <div className="flex flex-col flex-shrink-0 w-full sm:w-auto">
+                                            <Image src={holland} alt="propertimg" className="object-cover object-center w-full" />
+                                           <h3 className="font-bold text-md">Amsterdam, Hollanda</h3>
                                         </div>
                                     </Slide>
                                     <Slide index={8}>

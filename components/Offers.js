@@ -10,6 +10,9 @@ function Offers() {
       <p className='mt-1'>Size özel promosyonlar, indirimler ve fırsatlar</p>
       <div className='flex flex-col md:flex-row mt-3'>
         <div className='flex-grow'>
+          <div>
+            <Image></Image>
+          </div>
           <a href="#" className="flex flex-col bg-white border border-gray-200 rounded-lg shadow md:flex-row md:max-w-xl hover:bg-gray-100 dark:border-gray-700 dark:bg-gray-800 dark:hover:bg-gray-700 h-full">
             <div className="flex flex-col leading-normal mt-8 p-3">
               <h5 className="text-xl font-bold tracking-tight text-gray-900 dark:text-white p-1">Şimdiye kadarki en uzun tatilinize çıkın</h5>
